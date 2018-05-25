@@ -2,7 +2,7 @@
 <html ng-app="priceListApp">
     <head>
     <meta charset="utf-8">
-    <title>Marge | KaraokeSongBook</title>      
+    <title>Marge | Video Sengko</title>      
       <center><h3>Search:&emsp;<input ng-model="query" type="text"/></h3></center><br>
       <div><center><h4>Mega Vision: "The Original Version(Old)" <?php echo "| Note: Partial List"; ?></h4></center></div>
         <script src="lib/jquery-1.10.2.min.js"></script>
