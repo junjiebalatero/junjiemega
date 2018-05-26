@@ -1,5 +1,11 @@
 ﻿[
 	{
+	"no":"8923",
+	"song":"Addicted",
+	"artist":"Simple Plan",
+	"description":"Karaoke"	
+ },
+	{
 	"no":"8924",
 	"song":"Always",
 	"artist":"Marco Sison",
@@ -10,11 +16,77 @@
 	"song":"American Woman",
 	"artist":"Guess Who",
 	"description":"Karaoke"	
+ },	
+ {
+	"no":"8926",
+	"song":"Anone",
+	"artist":"Ya Chang",
+	"description":"Karaoke"	
  },
-	{
-	"no":"8923",
-	"song":"Addicted",
-	"artist":"Simple Plan",
+ {
+	"no":"8927",
+	"song":"Baby Come Back",
+	"artist":"John Oates",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8928",
+	"song":"Bahala Na",
+	"artist":"Jolina Magdangal",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8929",
+	"song":"Basketbol",
+	"artist":"Rivermaya",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8930",
+	"song":"Basura",
+	"artist":"Gloc 9",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8931",
+	"song":"Biggest Part Of Me",
+	"artist":"Ambrosia",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8932",
+	"song":"Bintana Ng Puso",
+	"artist":"Victor Wood",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8933",
+	"song":"Boombastic",
+	"artist":"Shaggy",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8934",
+	"song":"Breathe",
+	"artist":"Kitchie Nadal",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8935",
+	"song":"Bulong",
+	"artist":"Kitchie Nadal",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8936",
+	"song":"Can We Still Be Friends",
+	"artist":"Mandy Moore",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8937",
+	"song":"Changes In My Life",
+	"artist":"Mark Sherman",
 	"description":"Karaoke"	
  },
 	{
