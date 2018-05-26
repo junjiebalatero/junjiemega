@@ -89,8 +89,74 @@
 	"artist":"Mark Sherman",
 	"description":"Karaoke"	
  },
+ {
+	"no":"8938",
+	"song":"Color Everywhere",
+	"artist":"Christian Bautista",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8939",
+	"song":"Come What May",
+	"artist":"Lani Hall",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8940",
+	"song":"Cool With You",
+	"artist":"Jennifer Love Hewit",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8941",
+	"song":"Cosmic Girl",
+	"artist":"Jamiroquai",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8942",
+	"song":"Crazy For This Girl",
+	"artist":"Evan & Jaron",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8943",
+	"song":"Daijobo",
+	"artist":"Ya Chang",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8944",
+	"song":"Dear Lie",
+	"artist":"TLC",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8945",
+	"song":"Diggin' On You",
+	"artist":"TLC",
+	"description":"Karaoke"	
+ },	
+ {
+	"no":"8946",
+	"song":"Especially For You",
+	"artist":"Jason Donovan",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8947",
+	"song":"Fallin",
+	"artist":"Janno Gibbs",
+	"description":"Karaoke"	
+ },	
+ {
+	"no":"8948",
+	"song":"Every Now And Then",
+	"artist":"Earth, Wind & Fire",
+	"description":"Karaoke"	
+ },
 	{
-		"no":"8922",
+	"no":"8922",
 	"song":"100 Years",
 	"artist":"Five for Fighting",
 	"description":"Karaoke"	
