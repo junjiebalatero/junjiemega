@@ -5,6 +5,7 @@
     <title>Marge | Video Sengko</title>      
       <center><h3>Search:&emsp;<input ng-model="query" type="text"/></h3></center><br>
       <div class="top"><center><h4>Mega Vision: "The Original Version(Old)" <?php echo "| Note: Partial List"; ?></h4></center></div>
+      <li><a href="#bottom"><center><h4>Go to bottom</h4></center></a></li>
         <script src="lib/jquery-1.10.2.min.js"></script>
         <script src="lib/angular.min.js"></script>    
         <link rel="stylesheet" href="js/bootstrap.min.js">
@@ -45,7 +46,7 @@
                   </tr>
             </table> 
        <p>
-    <li><a href="#top"><center><h4>Back to top</h4></center></a></li>
+    <li class="bottom"><a href="#top"><center><h4>Back to top</h4></center></a></li>
 </p>
 </body>
 </html>
