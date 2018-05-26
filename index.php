@@ -44,12 +44,10 @@
                      <th>{{ priceList.artist }}</th>                   
                      <th>{{ priceList.description }}</th> 
                   </tr>
-            </table> 
-       <p>
+            </table>        
         <div class="bottom">
     <li><a href="#top"><center><h4>Back to top</h4></center></a></li>
     </div>
-</p>
 </body>
 </html>
 
