@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Marge | Video Sengko</title>      
       <center><h3>Search:&emsp;<input ng-model="query" type="text"/></h3></center><br>
-      <div><center><h4>Mega Vision: "The Original Version(Old)" <?php echo "| Note: Partial List"; ?></h4></center></div>
+      <div class="top"><center><h4>Mega Vision: "The Original Version(Old)" <?php echo "| Note: Partial List"; ?></h4></center></div>
         <script src="lib/jquery-1.10.2.min.js"></script>
         <script src="lib/angular.min.js"></script>    
         <link rel="stylesheet" href="js/bootstrap.min.js">
@@ -44,7 +44,9 @@
                      <th>{{ priceList.description }}</th> 
                   </tr>
             </table> 
-       
+       <p>
+    <li><a href="#top"><center><h4>Back to top</h4></center></a></li>
+</p>
 </body>
 </html>
 
