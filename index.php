@@ -32,10 +32,10 @@
    
          <table class="table table-striped" style="width:100%">  
                   <tr>
-                     <th></th>
+                     <th>No.</th>
                      <th><button ng-click="order = 'song'">Order by Song</button></th>
                      <th><button ng-click="order = 'artist'">Order by Artist</button></th>                 
-                     <th></th>
+                     <th>Description</th>
                   </tr>                 
                   <tr ng-repeat="priceList in priceLists | filter:query | orderBy:order">
                      <th>{{ priceList.no }}</th> 
