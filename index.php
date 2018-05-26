@@ -46,7 +46,9 @@
                   </tr>
             </table> 
        <p>
-    <li class="bottom"><a href="#top"><center><h4>Back to top</h4></center></a></li>
+        <div class="bottom">
+    <li><a href="#top"><center><h4>Back to top</h4></center></a></li>
+    </div>
 </p>
 </body>
 </html>
