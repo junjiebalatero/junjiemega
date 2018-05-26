@@ -5,6 +5,13 @@
     <title>Marge | Video Sengko</title>      
       <center><h3>Search:&emsp;<input ng-model="query" type="text"/></h3></center><br>
       <div class="top"><center><h4>Mega Vision: "The Original Version(Old)" <?php echo "| Note: Partial List"; ?></h4></center></div>
+      <div>
+          <center>
+              <h3>
+                Total number of Songs as of Today: {{priceLists.length}}
+              </h3>
+          </center>
+      </div>     
         <script src="lib/jquery-1.10.2.min.js"></script>
         <script src="lib/angular.min.js"></script>    
         <link rel="stylesheet" href="js/bootstrap.min.js">
