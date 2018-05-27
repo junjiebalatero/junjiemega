@@ -215,6 +215,229 @@
 	"artist":"Beatles",
 	"description":"Karaoke"	
  },
+ {
+	"no":"68",
+	"song":"A Haze Shade Of Winter",
+	"artist":"Bangles",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"1008",
+	"song":"A Horse With No Name",
+	"artist":"America",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"6909",
+	"song":"A House Is Not A Home",
+	"artist":"Dionne Warrick",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"74",
+	"song":"A House With No Curtains",
+	"artist":"",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"7716",
+	"song":"A Kind Of Magic",
+	"artist":"Queen",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8672",
+	"song":"A Little Bit",
+	"artist":"M.Y.M.P.",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"89",
+	"song":"A Little Bit More",
+	"artist":"",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"95",
+	"song":"A Little Peace",
+	"artist":"Nicole Flieg",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8023",
+	"song":"A Little Respect",
+	"artist":"Erasure",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8024",
+	"song":"A Little Time",
+	"artist":"Beautiful South",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"2239",
+	"song":"A Long And Lasting Love",
+	"artist":"Crystal Gayle",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"884",
+	"song":"A Long Long Time Ago",
+	"artist":"Kuh Ledesma",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8074",
+	"song":"A Love Before Time",
+	"artist":"Coco Lee",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"788",
+	"song":"A Love To Last A Lifetime",
+	"artist":"Jose Mari Chan",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8331",
+	"song":"A Lover's Question",
+	"artist":"",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"6333",
+	"song":"A Man And A Woman",
+	"artist":"Englebert",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8025",
+	"song":"A Man This Lonely",
+	"artist":"Brooks & Dunn",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"890",
+	"song":"A Man Without Love",
+	"artist":"Englebert",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"3235",
+	"song":"A Man Without Love",
+	"artist":"Englebert",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"97",
+	"song":"A Media Luz",
+	"artist":"Donato Lenzi",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"102",
+	"song":"A Million Love Song",
+	"artist":"Barlow",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"6556",
+	"song":"A New Day Has Come",
+	"artist":"Celine Dion",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"104",
+	"song":"A Night Like This",
+	"artist":"",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"4447",
+	"song":"A Perfect Christmas",
+	"artist":"Jose Mari Chan",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"5636",
+	"song":"A Place In The Sun",
+	"artist":"Stevie Wonder",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"108",
+	"song":"A Rainy Night In Georgia",
+	"artist":"Gladys Night",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"873",
+	"song":"A Smile In Your Heart",
+	"artist":"Jam Morales",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"115",
+	"song":"A Song For Jeffrey",
+	"artist":"Jethro Tull",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"116",
+	"song":"A Song For Mama",
+	"artist":"Boyz 2 Men",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"8514",
+	"song":"A Song For You",
+	"artist":"Carpenters",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"121",
+	"song":"A Summer Place",
+	"artist":"Letterman",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"122",
+	"song":"A Tale That Wasn't Right",
+	"artist":"Helloween",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"8743",
+	"song":"A Taste Of Honey",
+	"artist":"Beatles",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"8515",
+	"song":"A Thousand Dreams..",
+	"artist":"",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"6439",
+	"song":"A Thousand Miles",
+	"artist":"Vanessa Carlton",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"8673",
+	"song":"A Thousand Miles",
+	"artist":"Vanessa Carlton",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"125",
+	"song":"A Time For Us",
+	"artist":"Donny Ozmond",
+	"description":"Karaoke"	
+ },
+
 
 
 
@@ -225,7 +448,7 @@
 
 
 	{
-	"no":"8923",
+	"no":"8743",
 	"song":"Addicted",
 	"artist":"Simple Plan",
 	"description":"Karaoke"	
