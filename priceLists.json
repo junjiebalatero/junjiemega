@@ -841,8 +841,14 @@
  },
  {
 	"no":"9063",
-	"song":"You've Made Me So Very Happy'",
+	"song":"You've Made Me So Very Happy",
 	"artist":"Nanette Inventor",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"9526",
+	"song":"24 Hours",
+	"artist":"Cueshe",
 	"description":"Karaoke"	
  },
 
