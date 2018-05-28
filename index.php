@@ -7,6 +7,7 @@
     <div><center><h5>Mega Vision(Old)" | Partial List as of Today:&emsp;{{priceLists.length}}</h5></center></div><div><?php ""; ?></div>
         <script src="lib/jquery-1.10.2.min.js"></script>
         <script src="lib/angular.min.js"></script>    
+        <link rel="shortcut icon" href="favicon.ico" type='image/x-icon' />
         <link rel="stylesheet" href="js/bootstrap.min.js">
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/jquery-1.10.2.min.js">      
