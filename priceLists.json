@@ -1361,11 +1361,36 @@
 	"artist":"Heart",
 	"description":"Karaoke"	
  },
-
-
-
-
-
+ {
+	"no":"317",
+	"song":"All I Want",
+	"artist":"Wet Sprocket",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"320",
+	"song":"All I Want Is Everything",
+	"artist":"Def Leppard",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"321",
+	"song":"All I Want Is You",
+	"artist":"Carly Simon",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"324",
+	"song":"All I've Got To Do",
+	"artist":"Beatles",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8524",
+	"song":"All My Ex's Are In Texas",
+	"artist":"Clint Black",
+	"description":"Karaoke"	
+ },
 
 
 
@@ -2166,7 +2191,7 @@
  },
  {
 	"no":"9054",
-	"song":"|What You Won't Do For Love",
+	"song":"What You Won't Do For Love",
 	"artist":"bobby Caldwell",
 	"description":"Karaoke"	
  },
