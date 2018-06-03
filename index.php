@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Marge | Video Sengko</title>      
     <div class="top"><center><h2>Search:&emsp;<input ng-model="query" type="text" style="font-size: 20px;"/></h2></center>
-    <div><center><h5>Mega Vision(Old)" | Partial List as of Today:&emsp;{{priceLists.length}}</h5></center></div><div><?php ""; ?></div>
+    <div><center><h5>Mega Vision(Old) | Partial List as of Today:&emsp;{{priceLists.length}}</h5></center></div><div><?php ""; ?></div>
         <script src="lib/jquery-1.10.2.min.js"></script>
         <script src="lib/angular.min.js"></script>    
         <link rel="shortcut icon" href="favicon.ico" type='image/x-icon' />
