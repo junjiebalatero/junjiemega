@@ -7855,85 +7855,85 @@
  },
 {
 	"no":"1549",
-	"song":"Don't Answer Me" ,
+	"song":"Don't Answer Me",
 	"artist":"Alan Parsons",
 	"description":"Karaoke"	
  },
 {
 	"no":"1550",
-	"song":"Don't Answer The Door" ,
+	"song":"Don't Answer The Door",
 	"artist":"Elvis Presley",
 	"description":"Karaoke"	
  },
 {
 	"no":"5596",
-	"song":"Don't Be Afraid To Love" ,
+	"song":"Don't Be Afraid To Love",
 	"artist":"Willy Cruz | Nonoy Zuniga",
 	"description":"Karaoke"	
  },
 {
 	"no":"1555",
-	"song":"Don't Be Cruel" ,
+	"song":"Don't Be Cruel",
 	"artist":"Elvis Presley",
 	"description":"Karaoke"	
  },
 {
 	"no":"1556",
-	"song":"Don't Blame Me" ,
+	"song":"Don't Blame Me",
 	"artist":"",
 	"description":"Karaoke"	
  },
 {
 	"no":"7785",
-	"song":"Don't Bring Me Down" ,
+	"song":"Don't Bring Me Down",
 	"artist":"",
 	"description":"Karaoke"	
  },
 {
 	"no":"7786",
-	"song":"Don't Bring Me Down" ,
+	"song":"Don't Bring Me Down",
 	"artist":"",
 	"description":"Karaoke"	
  },
 {
 	"no":"7787",
-	"song":"Don't Call Me Baby" ,
+	"song":"Don't Call Me Baby",
 	"artist":"",
 	"description":"Karaoke"	
  },
 {
 	"no":"45",
-	"song":"Don't Cry For Me Argentina" ,
+	"song":"Don't Cry For Me Argentina",
 	"artist":"Olivia Newton John",
 	"description":"Karaoke"	
  },
 {
 	"no":"1557",
-	"song":"Don't Cry For Me Argentina" ,
+	"song":"Don't Cry For Me Argentina",
 	"artist":"Olivia Newton John",
 	"description":"Karaoke"	
  },
 {
 	"no":"1560",
-	"song":"Don't Cry Joni" ,
+	"song":"Don't Cry Joni",
 	"artist":"",
 	"description":"Karaoke"	
  },
 {
 	"no":"1562",
-	"song":"Don't Cry Out Load" ,
+	"song":"Don't Cry Out Load",
 	"artist":"Melissa Manchester",
 	"description":"Karaoke"	
  },
 {
 	"no":"8695",
-	"song":"Don't Cry Out Load" ,
+	"song":"Don't Cry Out Load",
 	"artist":"Rachel Ann Go",
 	"description":"Karaoke"	
  },
 {
 	"no":"1564",
-	"song":"Don't Dream It's Over" ,
+	"song":"Don't Dream It's Over",
 	"artist":"Crystal Gayle",
 	"description":"Karaoke"	
  },
@@ -7945,49 +7945,262 @@
  },
 {
 	"no":"957",
-	"song":"Don't Ever Leave Me" ,
+	"song":"Don't Ever Leave Me",
 	"artist":"Paul Anka",
 	"description":"Karaoke"	
  },
 {
 	"no":"1565",
-	"song":"Don't Ever Make Me Cry" ,
+	"song":"Don't Ever Make Me Cry",
 	"artist":"Sharon Cuneta",
 	"description":"Karaoke"	
  },
 {
 	"no":"880",
-	"song":"Don't Fade Away" ,
+	"song":"Don't Fade Away",
 	"artist":"Acosta-Russell",
 	"description":"Karaoke"	
  },
 {
 	"no":"46",
-	"song":"Don't Fall In Love With A Dreamer" ,
+	"song":"Don't Fall In Love With A Dreamer",
 	"artist":"Kenny Rogers | K. Carnes",
 	"description":"Karaoke"	
  },
 {
 	"no":"1567",
-	"song":"Don't Forget Me" ,
+	"song":"Don't Forget Me",
 	"artist":"Marissa Sanchez",
 	"description":"Karaoke"	
  },
 {
 	"no":"47",
-	"song":"Don't Forget To Remember" ,
+	"song":"Don't Forget To Remember",
 	"artist":"Bee Gees",
 	"description":"Karaoke"	
  },
-
-
-
-
-
-
-
-
-
+{
+	"no":"6705",
+	"song":"Don't Give Up On Us",
+	"artist":"David Soul",
+	"description":"Karaoke"	
+ },
+{
+	"no":"8778",
+	"song":"Don't Give Your Love Away",
+	"artist":"Jack Jones",
+	"description":"Karaoke"	
+ },
+{
+	"no":"3372",
+	"song":"Don't Go Breaking My Heart",
+	"artist":"Elton John",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1569",
+	"song":"Don't It Make My Brown Eyes Blue",
+	"artist":"Crystal Gayle",
+	"description":"Karaoke"	
+ },
+{
+	"no":"707",
+	"song":"Don't Know Much",
+	"artist":"Linda Rondstadt",
+	"description":"Karaoke"	
+ },
+{
+	"no":"751",
+	"song":"Don't Know What To Say",
+	"artist":"Ric Segreto",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1570",
+	"song":"Don't Know Why",
+	"artist":"Nora Jones",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1571",
+	"song":"Don't Leave Me This Way",
+	"artist":"Thelma Houston",
+	"description":"Karaoke"	
+ },
+{
+	"no":"8050",
+	"song":"Don't Let Go",
+	"artist":"En Vogue",
+	"description":"Karaoke"	
+ },
+{
+	"no":"379",
+	"song":"Don't Let Me Be Lonely Tonight",
+	"artist":"James Taylor",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1572",
+	"song":"Don't Let Me Be Misunderstood",
+	"artist":"Animals",
+	"description":"Karaoke"	
+ },
+{
+	"no":"5441",
+	"song":"Don't Let Me Be The Last To Know",
+	"artist":"Britney Spears",
+	"description":"Karaoke"	
+ },
+{
+	"no":"313",
+	"song":"Don't Let Me Down",
+	"artist":"Beatles",
+	"description":"Karaoke"	
+ },
+{
+	"no":"8479",
+	"song":"Don't Let Me Get Me",
+	"artist":"Pink",
+	"description":"Karaoke"	
+ },
+{
+	"no":"649",
+	"song":"Don't Let The Sun Go Down On Me",
+	"artist":"Elton John",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1573",
+	"song":"Don't Look In My Eyes",
+	"artist":"Sam Harris",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1574",
+	"song":"Don't Lose My Number",
+	"artist":"Phil Collins",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1575",
+	"song":"Don't Love Me" ,
+	"artist":"Lani Misalucha",
+	"description":"Karaoke"	
+ },
+{
+	"no":"2158",
+	"song":"Don't Make Me Over",
+	"artist":"Dionne Warrick",
+	"description":"Karaoke"	
+ },
+{
+	"no":"8460",
+	"song":"Don't Say" ,
+	"artist":"Paulina Rubio",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1577",
+	"song":"Don't Say Goodbye",
+	"artist":"Pops Fernandez",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1579",
+	"song":"Don't Say You Love Me",
+	"artist":"M2M",
+	"description":"Karaoke"	
+ },
+{
+	"no":"7788",
+	"song":"Don't Say You Love Me",
+	"artist":"The Corrs",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1580",
+	"song":"Don't Speak",
+	"artist":"No Doubt",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1581",
+	"song":"Don't Speak" ,
+	"artist":"No Doubt",
+	"description":"Karaoke"	
+ },
+{
+	"no":"8283",
+	"song":"Don't Start Me To Talking",
+	"artist":"Sonny Boy Williamson",
+	"description":"Karaoke"	
+ },
+{
+	"no":"8051",
+	"song":"Don't Stop" ,
+	"artist":"Fleetwood Mac",
+	"description":"Karaoke"	
+ },
+{
+	"no":"8414",
+	"song":"Don't Stop Me Now",
+	"artist":"Queen",
+	"description":"Karaoke"	
+ },
+{
+	"no":"7789",
+	"song":"Don't Stop Till You Get Enough",
+	"artist":"Michael Jackson",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1583",
+	"song":"Don't Take Away That Light",
+	"artist":"Fra Lippo Lippi",
+	"description":"Karaoke"	
+ },
+{
+	"no":"8195",
+	"song":"Don't Take The Girl",
+	"artist":"Tim Mcgraw",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1584",
+	"song":"Don't Take To Him",
+	"artist":"Cliff Richard",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1585",
+	"song":"Don't Tell Me",
+	"artist":"Madonna",
+	"description":"Karaoke"	
+ },
+{
+	"no":"8696",
+	"song":"Don't Tell Me",
+	"artist":"Avril Lavigne",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1587",
+	"song":"Don't Think Twice, It's Alright",
+	"artist":"",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1588",
+	"song":"Don't Touch My Birdie",
+	"artist":"Parokya N Edgar",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1589",
+	"song":"Don't Turn Around",
+	"artist":"Ace Of Base",
+	"description":"Karaoke"	
+ },
 
 
 
