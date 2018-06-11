@@ -6932,7 +6932,7 @@
 {
 	"no":"8193",
 	"song":"Dadd's Money" ,
-	"artist":"|Ricochet",
+	"artist":"Ricochet",
 	"description":"Karaoke"	
  },
 {
@@ -8639,9 +8639,24 @@
 	"artist":"Rivermaya",
 	"description":"Karaoke"	
  },
-
-
-
+{
+	"no":"1754",
+	"song":"Elevation",
+	"artist":"U2",
+	"description":"Karaoke"	
+ },
+{
+	"no":"1756",
+	"song":"Email My Heart",
+	"artist":"Britney Spears",
+	"description":"Karaoke"	
+ },
+{
+	"no":"907",
+	"song":"Emotion",
+	"artist":"Bee Gees",
+	"description":"Karaoke"	
+ },
 
 
 
