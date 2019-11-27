@@ -13262,6 +13262,267 @@
 	  "artist":"Paul Anka",
 	  "description":"Karaoke"
 	}
+	{
+  	  "no":"529",
+	  "song":"Another Sad Love Song",
+	  "artist":"Toni Braxton",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"6672",
+	  "song":"Becouse Of You",
+	  "artist":"Tony Bennett",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"1000",
+	  "song":"Boulevard Of Broken Dreams",
+	  "artist":"Tony Bennett",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"7769",
+	  "song":"Cold, Cold Heart",
+	  "artist":"Tony Bennett",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"531",
+	  "song":"I Left My Heart In San Francisco",
+	  "artist":"Tony Bennett",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"7954",
+	  "song":"Smile",
+	  "artist":"Tony Bennett",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"205",
+	  "song":"Somewhere My Love",
+	  "artist":"Tony Bennett",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"1688",
+	  "song":"Stranger In Paradise",
+	  "artist":"Tony Bennett",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"1231",
+	  "song":"Tender Is The Night",
+	  "artist":"Tony Bennett",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"1230",
+	  "song":"The Shadow Of Your Smile",
+	  "artist":"Tony Bennett",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"1689",
+	  "song":"Who Can I Turn To",
+	  "artist":"Tony Bennett",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"1146",
+	  "song":"Carrie",
+	  "artist":"Europa",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"1867",
+	  "song":"Faithfully",
+	  "artist":"Journey",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"4317",
+	  "song":"Open Arms",
+	  "artist":"Journey",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"940",
+	  "song":"Blue Eyes",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"3812",
+	  "song":"Can You Feel The Love",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"311",
+	  "song":"Candle In The Wind",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"1252",
+	  "song":"Circle Of Life",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"658",
+	  "song":"Crocodile Rock",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"369",
+	  "song":"Daniel",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"3372",
+	  "song":"Don't Go Breaking My Heart",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"649",
+	  "song":"Don't Let The Sun Go Down On Me",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"73",
+	  "song":"Goodbye Yellow Brick Road",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"8207",
+	  "song":"Honky Cat",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"2521",
+	  "song":"I Don't Wanna Go On With You Like That",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"2543",
+	  "song":"I Guess That's Why They Call It The Blues",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"8470",
+	  "song":"I Want Love",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"2794",
+	  "song":"I'm Still Standing",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"2873",
+	  "song":"Island Girl",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"8561",
+	  "song":"Levon",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"8098",
+	  "song":"Made In England",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"8590",
+	  "song":"Madman Across The Water",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"4116",
+	  "song":"Nikita",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"4928",
+	  "song":"Rocket Man",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"5019",
+	  "song":"Sacrifice",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"8124",
+	  "song":"Saturday Night's Alright(For Fighting)",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"2284",
+	  "song":"Skyline Pigeon",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"4856",
+	  "song":"Something About The Way You Look",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"207",
+	  "song":"Sorry Seems To Be The Hardest Word",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"5815",
+	  "song":"The One",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"7983",
+	  "song":"Tonight",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"8011",
+	  "song":"Word In Spanish",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"299",
+	  "song":"Your Song",
+	  "artist":"Elton John",
+	  "description":"Karaoke"
+	}
+
+
+
 
 
 
