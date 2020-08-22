@@ -38,7 +38,7 @@
         			 <span class="sortorder" ng-show="propertyName === 'no'" ng-class="{reverse: reverse}"></span>
 
                      <!-- <th>No.</th> -->
-                     <th><button ng-click="-no = 'no'">Order by No.</button></th>
+                     <th><button ng-click="order = 'no'">Order by No.</button></th>
                      <th><button ng-click="order = 'song'">Order by Song</button></th>
                      <th><button ng-click="order = 'artist'">Order by Artist</button></th>                 
                      <th>Description</th>
