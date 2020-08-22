@@ -39,7 +39,7 @@
                      <th><button ng-click="order = 'artist'">Order by Artist</button></th>                 
                      <th>Description</th>
                   </tr>                 
-                  <tr ng-repeat="priceList in priceLists | filter:query | orderBy:order:'+':true">                  
+                  <tr ng-repeat="priceList in priceLists | filter:query | orderBy:order:'$index':true">                  
                      <th>{{ priceList.no }}</th> 
                      <th>{{ priceList.song  }}</th>    
                      <th>{{ priceList.artist }}</th>                   
