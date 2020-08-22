@@ -33,13 +33,17 @@
    
          <table class="table table-striped" style="width:100%">  
                   <tr>
+
+                  	 <button ng-click="sortBy('no')">Order by No.</button>
+        			 <span class="sortorder" ng-show="propertyName === 'no'" ng-class="{reverse: reverse}"></span>
+
                      <!-- <th>No.</th> -->
                      <th><button ng-click="-no = 'no'">Order by No.</button></th>
                      <th><button ng-click="order = 'song'">Order by Song</button></th>
                      <th><button ng-click="order = 'artist'">Order by Artist</button></th>                 
                      <th>Description</th>
                   </tr>                 
-                  <tr ng-repeat="priceList in priceLists | filter:query | orderBy:order | orderBy:'-no'">
+                  <tr ng-repeat="priceList in priceLists | filter:query | orderBy:order">
                      <th>{{ priceList.no }}</th> 
                      <th>{{ priceList.song  }}</th>    
                      <th>{{ priceList.artist }}</th>                   
