@@ -6123,12 +6123,6 @@
 	"description":"Karaoke"	
  },
 {
-	"no":"4676",
-	"song":"Can't Stop Loving You",
-	"artist":"Tom Jones",
-	"description":"Karaoke"	
- },
-{
 	"no":"1138",
 	"song":"Can't Stop Talking",
 	"artist":"Russell Fragar",
@@ -7557,12 +7551,6 @@
 	"description":"Karaoke"	
  },
 {
-	"no":"1446",
-	"song":"Daughters Of Darkness" ,
-	"artist":"Tom Jones",
-	"description":"Karaoke"	
- },
-{
 	"no":"1448",
 	"song":"Daughters Of Triton" ,
 	"artist":"",
@@ -7704,12 +7692,6 @@
 	"no":"7779",
 	"song":"Delicate" ,
 	"artist":"R.A. Lopez",
-	"description":"Karaoke"	
- },
-{
-	"no":"527",
-	"song":"Delilah" ,
-	"artist":"Tom Jones",
 	"description":"Karaoke"	
  },
 {
@@ -10308,12 +10290,6 @@
 	"no":"9593",
 	"song":"I Don't Want To See You Cry Again",
 	"artist":"Christian Bautista",
-	"description":"Karaoke"	
- },
- {
-	"no":"9594",
-	"song":"I Know",
-	"artist":"Tom Jones",
 	"description":"Karaoke"	
  },
  {
@@ -12992,6 +12968,12 @@
 	  "artist":"Marco Sison",
 	  "description":"Karaoke"
 	},
+	 {
+	"no":"9594",
+	"song":"I Know",
+	"artist":"Tom Jones",
+	"description":"Karaoke"	
+ },
 	{
   	  "no":"4676",
 	  "song":"Can't Stop Loving You",
@@ -13112,6 +13094,12 @@
 	  "artist":"Tom Jones",
 	  "description":"Karaoke"
 	},
+		{
+  	  "no":"4613",
+	  "song":"One Day Soon",
+	  "artist":"Tom Jones",
+	  "description":"Karaoke"
+	},
 	{
   	  "no":"4298",
 	  "song":"Only A Fool Breaks His Own Heart",
@@ -13184,6 +13172,30 @@
 	  "artist":"Tom Jones",
 	  "description":"Karaoke"
 	},
+	{
+	"no":"4676",
+	"song":"Can't Stop Loving You",
+	"artist":"Tom Jones",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"1446",
+	"song":"Daughters Of Darkness" ,
+	"artist":"Tom Jones",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"527",
+	"song":"Delilah" ,
+	"artist":"Tom Jones",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"12739",
+	"song":"Memphis Tennessee" ,
+	"artist":"Tom Jones",
+	"description":"Karaoke"	
+ },
 	{
   	  "no":"5223",
 	  "song":"Babalik Ka Rin",
