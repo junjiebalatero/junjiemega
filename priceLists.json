@@ -13317,12 +13317,6 @@
 	  "description":"Karaoke"
 	},
 	{
-  	  "no":"8746",
-	  "song":"Akong Pinangga",
-	  "artist":"Visayan Songs",
-	  "description":"Karaoke"
-	},
-	{
   	  "no":"7613",
 	  "song":"Alimukon",
 	  "artist":"Visayan Songs",
@@ -13627,5 +13621,62 @@
 	  "song":"You're Having My Baby",
 	  "artist":"Paul Anka",
 	  "description":"Karaoke"
+	},
+	{
+  	  "no":"7663",
+	  "song":"Bakas Ng Lumipas",
+	  "artist":"Eddie Peregrina",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"13075",
+	  "song":"Bakit Bigo",
+	  "artist":"Eddie Peregrina",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"6882",
+	  "song":"Your Love",
+	  "artist":"Eddie Peregrina",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"6430",
+	  "song":"What Am I Living For",
+	  "artist":"Eddie Peregrina",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"8909",
+	  "song":"Two Lovely Flowers",
+	  "artist":"Eddie Peregrina",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"5251",
+	  "song":"Since You've Been Gone",
+	  "artist":"Eddie Peregrina",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"8880",
+	  "song":"Since You've Been Gone",
+	  "artist":"Eddie Peregrina",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"4571",
+	  "song":"I Missed You So",
+	  "artist":"Eddie Peregrina",
+	  "description":"Karaoke"
+	},
+	{
+  	  "no":"6295",
+	  "song":"I Do Love You",
+	  "artist":"Eddie Peregrina",
+	  "description":"Karaoke"
 	}
 ]
+
+
+
