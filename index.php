@@ -33,7 +33,8 @@
    
          <table class="table table-striped" style="width:100%">  
                   <tr>
-                     <th>No.</th>
+                     <!-- <th>No.</th> -->
+                     <th><button ng-click="order = 'no'">Order by No.</button></th>
                      <th><button ng-click="order = 'song'">Order by Song</button></th>
                      <th><button ng-click="order = 'artist'">Order by Artist</button></th>                 
                      <th>Description</th>
