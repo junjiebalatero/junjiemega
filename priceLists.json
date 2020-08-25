@@ -1,5 +1,108 @@
 ﻿[
-	 {
+ {
+	"no":"8890",
+	"song":"Tabing Ilog",
+	"artist":"Barbie's Cradle",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"4482",
+	"song":"Pangarap",
+	"artist":"Barbie's Cradle",
+	"description":"Karaoke"	
+ },
+	
+{
+	"no":"7524",
+	"song":"Limang Dipang Tao",
+	"artist":"Barbie's Cradle",
+	"description":"Karaoke"	
+ },
+  {
+	"no":"308",
+	"song":"All I Ask Of You",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+{
+	"no":"7802",
+	"song":"Evergreen",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+{
+	"no":"150",
+	"song":"Memoory",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"3994",
+	"song":"My Heart Belongs To Me",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"4578",
+	"song":"People",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"5129",
+	"song":"Send In The Clowons",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"5305",
+	"song":"Some Good Things Never Last",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"2223",
+	"song":"Someone That I Used To Love",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"5421",
+	"song":"Stoney End",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"5805",
+	"song":"The Nearness Of You",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"7975",
+	"song":"The Way We Were",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"6419",
+	"song":"Till I Love You",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"6539",
+	"song":"What Kind Of Fool",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+ {
+	"no":"8009",
+	"song":"Woman In Love",
+	"artist":"Barbara Streisand",
+	"description":"Karaoke"	
+ },
+{
 	"no":"1833",
 	"song":"Everybody's Everything",
 	"artist":"Santana",
@@ -1688,12 +1791,7 @@
 	"artist":"Janet Jackson",
 	"description":"Karaoke"	
  },
- {
-	"no":"308",
-	"song":"All I Ask Of You",
-	"artist":"Barbara Streisand",
-	"description":"Karaoke"	
- },
+
  {
 	"no":"8029",
 	"song":"All I Do Is Love Her",
